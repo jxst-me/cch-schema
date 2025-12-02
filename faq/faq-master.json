@@ -4,234 +4,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is it better to build a home when rates are dropping?",
+      "name": "Are Myrtle Beach home prices really dropping in 2025?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Building can be a strong strategy in a declining rate environment because you can lock a rate during construction and use a float-down if rates drop further. Seasonal builder incentives in Myrtle Beach can also improve affordability."
+        "text": "No, prices are stabilizing after years of sharp increases. Median home values are slightly lower than 2024 but remain well above pre-pandemic levels."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it better to build or buy a new home for investment purposes?",
+      "name": "Is it a good time to sell my Myrtle Beach home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Buying a new build provides immediate rental potential, while building allows customization that maximizes income. Many investors build so they can include features like multiple suites, bunk rooms, or upgraded outdoor spaces."
+        "text": "Yes—if you price strategically. Homes listed within local comp ranges are still selling within 2–3 months, especially in Carolina Forest and Market Common."
       }
     },
     {
       "@type": "Question",
-      "name": "How does inventory affect my build or buy decision?",
+      "name": "Should I wait until 2026 to buy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Improved inventory gives buyers more choices, but Myrtle Beach hot spots still move quickly. Buyers needing specific layouts may benefit more from building."
+        "text": "Waiting rarely pays off in coastal markets. Myrtle Beach offers long-term value, and even modest appreciation can outpace savings from lower future rates."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I design a coastal home that’s safer in a flood?",
+      "name": "What areas of Myrtle Beach hold value best?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Elevate living areas above Base Flood Elevation, keep mechanicals off the ground, use flood-friendly materials on lower levels, and prioritize proper grading and drainage. Work with a builder familiar with FEMA maps and local codes."
+        "text": "Neighborhoods like Market Common, Carolina Forest, and Surfside Beach consistently outperform due to newer construction, flood safety, and strong amenities."
       }
     },
     {
       "@type": "Question",
-      "name": "Do inland Myrtle Beach communities still need flood-smart layouts?",
+      "name": "Will interest rates lower housing demand in Myrtle Beach?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Heavy rain events can overwhelm inland drainage systems. Elevated mechanicals, flood-aware storage planning, and smart ground-floor use help reduce risk even outside mapped flood zones."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I find out what flood zone my Myrtle Beach property is in?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use FEMA’s Flood Map Service Center or Horry County’s online flood map viewer. Myrtle Beach Construction Services and Chapin Memorial Library can assist with historic maps and explanations."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How high should I elevate my new home in Horry County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AE zones require the lowest floor 3 feet above BFE. VE zones require the lowest supporting member 3 feet above BFE. A-zones without BFE require at least 24 inches above the highest adjacent grade. Many elevate even higher to reduce risk and insurance costs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are Elevation Certificates still useful with FEMA’s Risk Rating 2.0?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. They aren't required to buy flood insurance, but can help lower premiums and provide clear documentation for buyers, lenders, and insurers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What flood and wind mitigation incentives are available in South Carolina?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Myrtle Beach’s CRS Class 5 rating can reduce NFIP premiums. SC Safe Home offers grants for wind retrofits. FORTIFIED roofs can qualify for discounts with certain carriers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does building higher improve my home’s resale value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Buyers prefer elevated homes with lower flood premiums, documented risk reduction, and less storm-related concern. These homes often attract stronger offers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I get flood insurance in an X zone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. NFIP policies are available in X zones, often at lower preferred rates. While not required, they add peace of mind for buyers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is aging in place?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It means designing or adapting a home to be safe and comfortable as you age. In coastal areas, it also includes flood resilience, accessibility, and durable materials."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which home modifications are most important for aging in place?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key features include main-level suites, wide doors, curbless showers, lever handles, strong lighting, motion sensors, and non-slip flooring."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can a multi-generational layout benefit my home design long term?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Private bedroom suites, guest quarters, or ADU-style spaces can flex into rental units, caregiver suites, or guest rooms over time."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is a multi-generational home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A home where multiple adult generations live under one roof, often featuring separate living zones, dual suites, or an ADU."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why are multi-generational floor plans becoming more popular?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rising housing costs, aging parents needing support, and adult children returning home have increased demand for layouts supporting multiple generations."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does an elevator add value to a coastal home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not always necessary to install immediately, but planning for one significantly improves long-term livability and resale appeal."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is rising inventory bad for sellers in Coastal South Carolina?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not necessarily. It often signals a healthier, more balanced market. Well-priced and well-presented homes still attract strong offers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How should I price my home when more listings are available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use accurate neighborhood comparables. Correct pricing reduces days on market and helps avoid early price drops."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are homes still selling quickly in Myrtle Beach?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Some do, especially in desirable areas like Market Common and Carolina Forest, though days on market have normalized statewide."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What upgrades matter most to today's buyers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Move-in-ready features like fresh paint, updated fixtures, clean landscaping, and well-maintained systems consistently perform well."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does increased inventory mean I’ll have to accept a lower offer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not if your home offers clear value. Strong presentation and strategic pricing often outweigh market-wide inventory trends."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will mortgage rates really drop in early 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Analographers expect modest rate relief as inflation cools, improving affordability for buyers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are home prices expected to rise in 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "South Carolina home prices rose modestly in 2024. If rates drop, demand may increase prices slightly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will Myrtle Beach condos be a good option in 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Condos account for over 30% of coastal sales and remain strong for affordability and ease of maintenance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are new builds good for vacation rentals in Myrtle Beach?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "New builds offer modern layouts, efficiency, and amenities that boost nightly rates and reduce maintenance costs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which Myrtle Beach areas are best for new-build vacation rentals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strong-performing areas include Market Common, North Myrtle Beach, Carolina Forest, and Surfside Beach."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What trends are driving Myrtle Beach vacation rental demand?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Inbound migration, remote work, multigenerational travel, and upgraded amenities continue to raise demand."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many bedrooms should a rental-friendly beach home have?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Three to five bedrooms with one bunk room and multiple living areas provide strong rental performance without overcrowding."
+        "text": "Higher rates have slowed some second-home buyers, but migration from northern states continues to support steady demand across the Grand Strand."
       }
     }
   ]
