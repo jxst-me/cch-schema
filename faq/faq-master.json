@@ -79,7 +79,46 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "For many homeowners, 2026 can be a solid selling window if expectations are realistic. Buyers are more selective, but well-prepared homes that are priced correctly and clearly communicate costs like HOA fees and insurance remain competitive. Sellers who plan for inspections and potential concessions upfront often protect their net proceeds more effectively."
-      } 
+      }
+    {
+      "@type": "Question",
+      "name": "Why are people relocating to coastal South Carolina in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 2026, many households are choosing coastal South Carolina for its balance of coastal lifestyle, housing variety, and economic stability. The region offers access to beaches, growing infrastructure, and a diversified local economy without the density or cost pressures seen in many larger coastal markets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is coastal South Carolina still affordable compared to other coastal areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compared to many coastal regions nationwide, coastal South Carolina generally remains more accessible. While home prices have adjusted over time, a mix of new construction and established neighborhoods helps provide options across a range of budgets, with ownership costs that many buyers find more predictable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of homes are most common for people relocating to the Grand Strand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Relocating buyers in the Grand Strand often choose single-family homes in planned communities, townhomes near commercial centers, or low-maintenance condos. Many prioritize flexible layouts, efficient use of space, and proximity to everyday services rather than oversized homes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the local economy support long-term relocation decisions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Coastal South Carolina benefits from a diversified economy that includes tourism, healthcare, logistics, and professional services. This mix helps reduce reliance on any single industry and supports steady employment opportunities for residents planning long-term relocation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are infrastructure and public services keeping up with population growth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ongoing road improvements, healthcare expansion, and broadband upgrades have helped coastal South Carolina adapt to population growth. While growth creates ongoing demand, many of the most critical infrastructure updates are already in place, supporting day-to-day livability in 2026."
+      }  
     }
   ]
 }
