@@ -41,6 +41,45 @@
         "@type": "Answer",
         "text": "Higher rates have slowed some second-home buyers, but migration from northern states continues to support steady demand across the Grand Strand."
       }
+     {
+      "@type": "Question",
+      "name": "Will Myrtle Beach home prices drop in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 2026, most changes in the Myrtle Beach housing market are expected to appear as increased negotiation rather than widespread price drops. Buyers may see more concessions, price adjustments on overpriced homes, and longer days on market. Well-located and well-maintained homes on the Grand Strand are still likely to hold value, while homes that miss pricing or condition expectations may lag."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What mortgage rate trends are expected for 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mortgage rates in 2026 are projected to improve modestly compared to recent years, potentially settling closer to the mid-6% range. Even small rate changes can meaningfully affect buyer affordability. In coastal South Carolina, buyers should also account for insurance, HOA dues, and total monthly housing costs when planning a purchase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the FHA loan limits for Myrtle Beach in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For 2026, the FHA one-unit loan limit for Horry County, which includes Myrtle Beach, Conway, and North Myrtle Beach, is $541,287. Higher limits apply for two- to four-unit properties. Buyers should confirm current limits with HUD or their lender, as loan eligibility also depends on income, credit, and property type."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What FHA requirements should buyers be aware of in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FHA loans may allow down payments as low as 3.5% for qualified buyers, typically with minimum credit score guidelines around 580. FHA appraisals also follow HUD property standards, meaning issues like roof condition, peeling paint, safety hazards, or moisture problems may need to be addressed before closing—especially important for coastal homes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2026 a good time to sell a home in Myrtle Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For many homeowners, 2026 can be a solid selling window if expectations are realistic. Buyers are more selective, but well-prepared homes that are priced correctly and clearly communicate costs like HOA fees and insurance remain competitive. Sellers who plan for inspections and potential concessions upfront often protect their net proceeds more effectively."
+      } 
     }
   ]
 }
