@@ -41,6 +41,7 @@
         "@type": "Answer",
         "text": "Higher rates have slowed some second-home buyers, but migration from northern states continues to support steady demand across the Grand Strand."
       }
+     },
      {
       "@type": "Question",
       "name": "Will Myrtle Beach home prices drop in 2026?",
@@ -80,7 +81,8 @@
         "@type": "Answer",
         "text": "For many homeowners, 2026 can be a solid selling window if expectations are realistic. Buyers are more selective, but well-prepared homes that are priced correctly and clearly communicate costs like HOA fees and insurance remain competitive. Sellers who plan for inspections and potential concessions upfront often protect their net proceeds more effectively."
       }
-    {
+     },
+     {
       "@type": "Question",
       "name": "Why are people relocating to coastal South Carolina in 2026?",
       "acceptedAnswer": {
