@@ -120,7 +120,47 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Ongoing road improvements, healthcare expansion, and broadband upgrades have helped coastal South Carolina adapt to population growth. While growth creates ongoing demand, many of the most critical infrastructure updates are already in place, supporting day-to-day livability in 2026."
-      }  
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are mortgage rates expected to drop significantly in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 2026, mortgage rates are generally expected to remain within a relatively stable range rather than dropping sharply. Most buyers are planning around current payment levels instead of waiting for major rate changes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is new construction in Myrtle Beach increasing in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New construction continues in Myrtle Beach in smaller, more controlled releases. Builders are focusing on practical layouts, efficient designs, and shared amenities rather than large-scale expansion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should families wait for home prices to come down?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 2026, many families are prioritizing total monthly costs and lifestyle fit rather than waiting for price drops. In established Grand Strand neighborhoods, prices often lag shifts in demand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are retirees prioritizing most when buying a home in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retirees in 2026 are prioritizing predictability, including single-level living, manageable maintenance, and proximity to healthcare and everyday services, over speculative appreciation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is relocating to Myrtle Beach still popular in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Relocation to Myrtle Beach remains popular in 2026, but decisions are more intentional. Many households are choosing locations that support long-term routines, access to services, and predictable costs."
+      }
     }
   ]
 }
